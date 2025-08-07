@@ -20,7 +20,7 @@
 
 - 🎓 **Computer Science Analyst** (📌 In Progress)
   - 🏫 **University of Santiago, Chile**
-  - 📅 **2021 - Present**
+  - 📅 **2022 - Present**
   - 📍 **Santiago, Chile**
 
 ## 🚀 Projects  
