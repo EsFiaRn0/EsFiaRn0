@@ -39,6 +39,21 @@ Here are some of my featured projects:
 
 💡 *Check out more projects on my [GitHub profile](https://github.com/EsFiaRn0)!*  
 
+## 👨‍💻 About My Tech Stack
+
+I am actively learning and working with multiple programming languages, frameworks, and development tools.  
+My focus is on building strong foundations in **software engineering**, **backend development**, and **web/mobile technologies**, with continuous growth through academic projects and personal development.
+
+These technologies reflect both my current capabilities and the areas I am actively developing:
+
+## 🎯 Current Focus
+
+- Backend architecture & API design  
+- Software design patterns  
+- Mobile application development  
+- Cryptography & computational theory  
+- Data structures and algorithms  
+
 ## 💻 Skills & Technologies  
 
 <table>
