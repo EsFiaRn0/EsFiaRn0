@@ -67,7 +67,7 @@ This project implements rotor-based encryption, plugboard configuration, and sta
   </tr>
 </table>
 
-💡 *You can find more academic and experimental projects across my GitHub repositories.*
+💡 You can find more academic and experimental projects in my [🎓 Academic & Experimental Projects Hub](https://github.com/EsFiaRn0/academic-projects)
 
 <br>
 
