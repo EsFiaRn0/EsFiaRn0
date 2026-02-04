@@ -105,16 +105,4 @@ These technologies reflect both my current capabilities and the areas I am activ
   </tr>
 </table>
 
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EsFiaRn0&show_icons=true&theme=cobalt&cache_seconds=3600" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsFiaRn0&layout=compact&theme=cobalt" alt="Top Languages">
-</p>
-
-
 <h1 align="center">🚀 Thanks for visiting my profile! 🚀 </h1>
