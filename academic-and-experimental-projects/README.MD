@@ -19,7 +19,9 @@ Rather than polished applications, the projects in this repository are intended 
 - **Horn Formula Evaluator**  
   C implementation for evaluating Horn clauses in propositional logic.  
   *Concepts:* logic evaluation, algorithm design, low-level programming.
+
   📘 Language: Spanish 
+
   🔗 Repository: [Evaluacion-Formulas-Horn](https://github.com/EsFiaRn0/Evaluacion-Formulas-Horn)
 
 ---
@@ -29,7 +31,9 @@ Rather than polished applications, the projects in this repository are intended 
 - **Socket Stream & Datagram Exercises**  
   Python-based experiments using TCP and UDP sockets to explore client–server communication models.  
   *Concepts:* networking fundamentals, socket programming, basic concurrency.
+
   📘 Language: Spanish 
+
   🔗 Repository: [Excercise-socket-stream-and-socket-datagram](https://github.com/EsFiaRn0/Excercise-socket-stream-and-socket-datagram)
 
 ---
@@ -50,7 +54,9 @@ Rather than polished applications, the projects in this repository are intended 
 - **Pandas & Matplotlib Practice**  
   Academic exercises focused on data manipulation and visualization using Python libraries.  
   *Concepts:* data analysis, plotting, exploratory data analysis (EDA).
+
   📘 Language: Spanish 
+
   🔗 Repository: [Practica-de-Pandas-Python-y-matplot](https://github.com/EsFiaRn0/Practica-de-Pandas-Python-y-matplot)
 
 ---
@@ -61,7 +67,9 @@ Rather than polished applications, the projects in this repository are intended 
   Repository focused on reviewing and practicing concepts in .NET development.  
   Includes examples and exercises to reinforce understanding of the .NET ecosystem and basic backend development patterns.  
   *Concepts:* .NET fundamentals, C# integration, framework patterns, environment configuration.
+
   📘 Language: Spanish 
+
   🔗 Repository: [Repaso_.net](https://github.com/EsFiaRn0/Repaso_.net)
 
 ## 🧠 Notes
