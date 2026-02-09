@@ -44,7 +44,9 @@ Rather than polished applications, the projects in this repository are intended 
   Public repository containing academic materials for the course “Modelamiento de Bases de Datos Científicos”.  
   Includes worksheets, lab solutions, evaluation materials, and PDF documents intended to support autonomous learning.  
   *Concepts:* database modeling fundamentals, SQL, OLAP, ETL, multidimensional schema design.  
+
   📘 Language: Spanish  
+
   🔗 Repository: [modelamiento-bd-cientificas-recursos](https://github.com/EsFiaRn0/modelamiento-bd-cientificas-recursos)
 
 ---
