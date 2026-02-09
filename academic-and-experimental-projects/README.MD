@@ -74,6 +74,15 @@ Rather than polished applications, the projects in this repository are intended 
 
   🔗 Repository: [Repaso_.net](https://github.com/EsFiaRn0/Repaso_.net)
 
+- **Python Practice (Basics to Utilities)**  
+  Repository focused on reviewing and practicing Python concepts through runnable exercises and mini projects.  
+  Includes standalone scripts, learning notes, and some exercises adapted with my own examples and approaches.  
+  *Concepts:* Python basics, conditionals/loops, functions, lists/dicts, file handling, validation, small CLI utilities.
+
+  📘 Language: English  
+
+  🔗 Repository: [Python_Practice_From_Basics_to_Utilities](https://github.com/EsFiaRn0/Python_Practice_From_Basics_to_Utilities)
+
 ## 🧠 Notes
 
 - Each repository includes documentation describing:
