@@ -32,40 +32,77 @@
 
 ## 🚀 Featured Project
 
-🔐 **[Enigma Machine Simulator](https://github.com/EsFiaRn0/Enigma-Machine)**  
-A cryptographic simulator inspired by the WWII Enigma machine.  
-This project implements rotor-based encryption, plugboard configuration, and stateful cipher logic, exposed through backend APIs and an interactive web interface.
+<p align="center">
+  <a href="https://github.com/EsFiaRn0/Enigma-Machine">
+    <img src="https://github.com/user-attachments/assets/513212e7-ff79-4611-8bfa-eacbfa13bce4" width="600" alt="Enigma Machine Simulator">
+  </a>
+</p>
 
-**Highlights**
-- Modular backend design with clear separation of concerns  
-- Stateful encryption logic aligned with historical Enigma behavior  
-- Client–server interaction using REST-style APIs  
+<h3 align="center">🔐 Enigma Machine Simulator</h3>
 
+<p align="center">
+A cryptographic simulator inspired by the WWII Enigma machine.<br>
+Implements rotor-based encryption, plugboard configuration, and historically accurate stateful cipher logic<br>
+through backend APIs and an interactive web interface.
+</p>
+
+<p align="center">
+  <a href="https://github.com/EsFiaRn0/Enigma-Machine">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### ✨ Highlights
+
+- ⚙️ Modular backend architecture with clear separation of concerns  
+- 🔄 Stateful encryption aligned with authentic Enigma mechanics  
+- 🌐 REST-style client–server communication  
+- 🧩 Configurable rotors and plugboard system  
+- 🎯 Accurate simulation of real cryptographic behavior  
+
+---
 ### 🧰 Tech Stack
 
-<table width="100%">
+<table align="center" width="600">
   <tr>
-    <td width="30%"><strong>🖥️ Backend</strong></td>
-    <td width="70%">
+    <td align="center" width="200"><strong>🖥️ Backend</strong></td>
+    <td align="center" width="400">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td width="30%"><strong>🎨 Frontend</strong></td>
-    <td width="70%">
+    <td align="center"><strong>🎨 Frontend</strong></td>
+    <td align="center">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     </td>
   </tr>
   <tr>
-    <td width="30%"><strong>📂 Data Format</strong></td>
-    <td width="70%">
+    <td align="center"><strong>📂 Data Format</strong></td>
+    <td align="center">
       <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
     </td>
   </tr>
 </table>
+
+---
+
+### 🎯 Project Scope
+
+This project showcases:
+
+- Cryptographic system simulation  
+- Stateful application design  
+- Backend development with Flask  
+- Frontend and backend integration  
+- Clean, modular, and maintainable architecture  
+
+---
+
 
 💡 You can find more academic and experimental projects in my [🎓 Academic & Experimental Projects Hub](https://github.com/EsFiaRn0/EsFiaRn0/tree/main/academic-and-experimental-projects)
 
