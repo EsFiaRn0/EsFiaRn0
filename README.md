@@ -174,15 +174,4 @@ This project showcases:
 
 <br>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EsFiaRn0&show_icons=true&theme=cobalt&cache_seconds=3600"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsFiaRn0&layout=compact&theme=cobalt"/>
-</p>
-
-
 <h3 align="center">🚀 Thanks for visiting my profile!</h3>
