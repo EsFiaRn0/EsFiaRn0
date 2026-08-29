@@ -102,6 +102,109 @@ This project showcases:
 - Clean, modular, and maintainable architecture  
 
 ---
+<br>
+
+## 📚 University Organizer
+
+<p align="center">
+  <img width="1152" height="648" alt="Image" src="https://github.com/user-attachments/assets/6faf5714-5ffa-469a-bfb0-b8ae3077a00e" />
+</p>
+
+<h3 align="center">🎓 University Organizer</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Work%20in%20Progress-orange?style=for-the-badge"/>
+</p>
+
+<p align="center">
+A Flask-based academic organization platform for managing university subjects,<br>
+tasks, priorities and deadlines through a centralized dashboard and monthly calendar.
+</p>
+
+<p align="center">
+The project currently provides its core functionality and is being actively improved<br>
+with new features, architectural refinements and UI/UX enhancements.
+</p>
+
+<p align="center">
+  <a href="https://github.com/EsFiaRn0/University_Organizer">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### ✨ Highlights
+
+* 📚 Complete CRUD management for university subjects
+* ✅ Task management with deadlines, status and priorities
+* 🔗 Many-to-many relationships between tasks and subjects
+* 📅 Monthly academic calendar with deadline visualization
+* 📊 Dashboard for upcoming academic work
+* 🌙 Responsive interface with light and dark themes
+* 🔐 CSRF protection and server-side validation
+* 🧪 Unit, integration and functional testing
+* 🏗️ MVC-inspired separation between controllers, models and views
+* 🚧 Actively evolving with additional functionality planned
+
+---
+
+### 🧰 Tech Stack
+
+<table align="center" width="700">
+  <tr>
+    <td align="center" width="200"><strong>🖥️ Backend</strong></td>
+    <td align="center" width="500">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Flask--WTF-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><strong>🎨 Frontend</strong></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><strong>🗄️ Database</strong></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><strong>🧪 Testing</strong></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🎯 Project Scope
+
+This project currently explores:
+
+* Academic task and subject management
+* Relational data modeling with SQLite
+* Backend development using Flask
+* Server-side validation and secure form handling
+* MVC-inspired application architecture
+* Frontend and backend integration
+* Automated testing across multiple application layers
+* Progressive software development and refactoring
+
+> 🚧 **This project is still under active development.**
+> The current version provides the core academic organization workflow, while additional features and improvements are planned for future versions.
+
+---
 
 
 💡 You can find more academic and experimental projects in my [🎓 Academic & Experimental Projects Hub](https://github.com/EsFiaRn0/EsFiaRn0/tree/main/academic-and-experimental-projects)
